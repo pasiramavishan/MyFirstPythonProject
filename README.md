@@ -1,5 +1,3 @@
-# MyFirstPythonProject
-
 # Shop Account Balance Manager
 
 Welcome to my first Python project on GitHub! This project was inspired by a need to simplify my father's work in managing the accounts of shops that purchase beverages from him. The program is designed to maintain the account balances for these shops, making it easier to keep track of transactions and balances.
